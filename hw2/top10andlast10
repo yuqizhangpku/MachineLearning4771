@@ -1,0 +1,15 @@
+tf:
+top:
+['exceeded', 'heavenly', 'haters', 'gem', 'skeptical', 'coma', 'glorious', 'perfection', 'minor', 'delightfully']
+last:
+['underwhelmed', 'inedible', 'poisoning', 'slowest', 'worst', 'downhill', 'subpar', 'positives', 'flavorless', 'mediocre']
+bigram:
+top:
+['4 because', 'mussels mussels', 'onions fries', 'round up', 'rounded up', 'fifth star', 'rounding up', '5 thstar', 'double with', '4 1']
+last:
+['two stars', 'three stars', '3 stars', 'medio creat', 'given 4', 'ok place', 'me hi', 'worst i', '3 because', 'higher rating']
+idf:
+top:
+['great', 'delicious', 'amazing', 'perfect', 'best', 'excellent', 'perfectly', 'awesome', 'love', 'fantastic']
+last:
+['worst', 'mediocre', 'bland', 'horrible', 'ok', 'terrible', 'disappointing', 'okay', 'dry', 'awful']
